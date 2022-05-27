@@ -11,7 +11,7 @@ Os múltiplos de 3 ou 5 que estão entre 0 até 10 são:
 3, 5, 6, 9 e 10
 <br>
 Portanto, a soma destes números é 33
-<br><br>
+</h3><br>
 <h2>Observação:</h2>
 <h3>Para este exercício, utilizei duas resoluções diferentes. A primeira (ex004_a) sem a utilização de uma função e a segunda (ex004_b) utilizando uma função.
 </h3>
