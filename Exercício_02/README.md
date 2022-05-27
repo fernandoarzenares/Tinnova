@@ -8,4 +8,4 @@ Estas informações também se enncontram no PDF que se está na pasta raíz des
 <br>
 <h3><b><u>Dados de Entrada:</u></h3>
 <br>
-<h4>V = {5, 3, 2, 4, 7, 1, 0, 6}
+<h3>V = {5, 3, 2, 4, 7, 1, 0, 6}
