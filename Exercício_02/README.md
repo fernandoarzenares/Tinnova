@@ -5,8 +5,6 @@ A ordenação é feita utilizando o algoritmo de ordenação Buble Sort, que con
 Caso chegue ao final do vetor e os elementos ainda estejam fora de ordem crescente, será repetido este mesmo processo, até que o vetor esteja ordenado corretamente com todos os seus elementos em order crescente.
 Estas informações também se encontram no PDF que está na pasta raíz deste projeto.
 </h3><br>
-<br>
 <h2>Dados de Entrada:</h2>
-<br>
 <h3>V = {5, 3, 2, 4, 7, 1, 0, 6}</h3>
 
